@@ -108,9 +108,9 @@ Alvera'nın gelişimini konuşmak, yeni nesil web teknolojileri üzerine tartı�
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Kişisel_Web_Sitem-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seninwebsiten.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seninprofilin)
-[![Email](https://img.shields.io/badge/İletişime_Geç-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:seninemailin@mail.com)
+[![Portfolio](https://img.shields.io/badge/Kişisel_Web_Sitem-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://socento.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunaakg%C3%BCn/)
+[![Email](https://img.shields.io/badge/İletişime_Geç-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:admin@socento.com)
 
 <br><br>
 
