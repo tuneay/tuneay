@@ -37,7 +37,7 @@
 
 ### 🚀 Flagship Projects
 
-My current focus and vision are built upon three main pillars. Each is designed to push the boundaries of user experience in its respective domain:
+My time and vision are currently shaped around three main pillars. Each is designed to push the boundaries in its respective domain:
 
 > **[Alvera](#)** <br>
 > **Current Focus.** My primary web platform aimed at redefining digital interaction. Stripped of all clutter, it focuses entirely on functionality and user psychology through a seamless interface. It is at the core of my development cycle, architected from the ground up to deliver a purely premium feel.
@@ -46,7 +46,7 @@ My current focus and vision are built upon three main pillars. Each is designed 
 > **Personal AI Assistant.** A Python-based companion, not just a command-execution script. Equipped with voice interaction, intelligent task execution, and a distinct character. Envy bridges the gap between cold artificial intelligence and intuitive daily assistance.
 
 > **[Socento Ecosystem](#)** <br>
-> **The Holistic Umbrella.** The macro-ecosystem that unites my projects, personal brand, and ventures into a single, cohesive universe. An infrastructure where products communicate flawlessly with one another.
+> **The Holistic Umbrella.** The macro-ecosystem that unites all these projects, my personal brand, and ventures into a single, cohesive universe. An infrastructure where products communicate flawlessly with one another.
 
 <br>
 
@@ -108,9 +108,9 @@ Whether you want to follow the development of Alvera, discuss next-gen web techn
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seninwebsiten.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seninprofilin)
-[![Email](https://img.shields.io/badge/Get_In_Touch-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:seninemailin@mail.com)
+[![Portfolio](https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://socento.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunaakg%C3%BCn/)
+[![Email](https://img.shields.io/badge/Get_In_Touch-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:admin@socento.com)
 
 <br><br>
 
