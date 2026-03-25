@@ -1,21 +1,25 @@
+<div align="right">
+  <a href="./README-tr.md">🇹🇷 Türkçe</a> • <b>🇬🇧 English</b>
+</div>
+
+<br><br>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Tuna+Akgün;Engineering+Meets+Aesthetics;Building+Alvera;Designing+The+Future" alt="Typing SVG" />
+<h1 align="center" style="font-size: 3.5em; font-weight: 800; letter-spacing: -1px;">
+  Tuna Akgün
+</h1>
+
+<h3 align="center" style="font-weight: 400; color: #888888;">
+  Engineering Meets Aesthetics.
+</h3>
 
 <br>
 
-<p align="center" style="font-size: 16px; color: #888888;">
-  <b>Software Engineer ⌘ Product Designer ⌘ Strategist</b><br>
-  Sıradan kodlar yazmıyorum; estetiğin ve mühendisliğin kusursuz bir uyum içinde çalıştığı,<br> premium dijital deneyimler ve ekosistemler inşa ediyorum.
+<p style="font-size: 16px; color: #888888; max-width: 600px; margin: 0 auto;">
+  <b>Software Engineer ⌘ Product Designer ⌘ Strategist</b><br><br>
+  I don't just write code; I engineer premium digital experiences and ecosystems where flawless architecture meets minimalist aesthetics.
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.svg" width="100%" alt="divider" />
-
-<br>
-
-### ✦ Felsefem: Görünmez Teknoloji
-
-*En iyi teknoloji, varlığını hissettirmeyen teknolojidir.* Bir ürünün arkasındaki mimari ne kadar karmaşık olursa olsun, kullanıcının gördüğü arayüz pürüzsüz, sezgisel ve minimalist olmalıdır. Benim işim bu karmaşayı alıp, Apple standartlarında, zarif ve nefes alan ürünlere dönüştürmek.
 
 <br><br>
 
@@ -23,94 +27,95 @@
 
 ---
 
+### ✦ The Philosophy: Invisible Technology
+
+*The best technology is the one that goes unnoticed.* No matter how complex the underlying architecture is, the user interface must remain smooth, intuitive, and remarkably simple. My focus is to take that complexity and distill it into elegant, breathable products that feel distinctly premium.
+
+<br>
+
+---
+
+### 🚀 Flagship Projects
+
+My current focus and vision are built upon three main pillars. Each is designed to push the boundaries of user experience in its respective domain:
+
+> **[Alvera](#)** <br>
+> **Current Focus.** My primary web platform aimed at redefining digital interaction. Stripped of all clutter, it focuses entirely on functionality and user psychology through a seamless interface. It is at the core of my development cycle, architected from the ground up to deliver a purely premium feel.
+
+> **[Envy AI](#)** <br>
+> **Personal AI Assistant.** A Python-based companion, not just a command-execution script. Equipped with voice interaction, intelligent task execution, and a distinct character. Envy bridges the gap between cold artificial intelligence and intuitive daily assistance.
+
+> **[Socento Ecosystem](#)** <br>
+> **The Holistic Umbrella.** The macro-ecosystem that unites my projects, personal brand, and ventures into a single, cohesive universe. An infrastructure where products communicate flawlessly with one another.
+
+<br>
+
+---
+
+### ⚙️ Technology & Architecture Stack
+
+Building an expansive ecosystem requires powerful, modern tools. Badges are kept in a strict monochrome palette to maintain the pure, uncluttered aesthetic:
+
+<br>
+
+**1. Core & Artificial Intelligence**<br>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<br>
+
+**2. Web Architecture**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br>
+
+**3. Product, Design & DevOps**<br>
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/Adobe_Creative_Cloud-000000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br>
+
+---
+
+### 📈 Engineering Metrics
+
 <div align="center">
 
-### 🚀 Amiral Gemisi Projelerim
-
-Vaktimi ve vizyonumu şu an üç ana yapı taşı üzerinde şekillendiriyorum. Her biri, kendi alanında sınırları zorlamak için tasarlandı:
+<img src="https://github-readme-stats.vercel.app/api?username=tuneay&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tuneay&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&sideLabels=ffffff&sideNums=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&bg_color=00000000" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <br>
 
-> **[Alvera](#)** > **Mevcut Odak Noktam.** İnternet deneyimini baştan tanımlamayı hedefleyen ana web platformum. Karmaşadan uzak, sadece işlevselliğe ve kullanıcı psikolojisine odaklanan pürüzsüz bir arayüz. Geliştirme sürecinin tam merkezinde ve tüm mimari baştan aşağı "premium" hissettirmek üzere kurgulanıyor.
-
-> **[Envy AI](#)** > **Kişisel Yapay Zeka Asistanım.** Python tabanlı, sadece komutları yerine getiren bir kod yığını değil; sesli etkileşimi, görev yürütme kapasitesi ve kendine has karakteri olan bir yol arkadaşı. Envy, yapay zekanın soğuk yüzünü ısıtan bir köprü.
-
-> **[Socento Ekosistemi](#)** > **Bütünsel Çatı.** Tüm bu projeleri, kişisel markamı ve girişimlerimi (Socento Social gibi) tek bir uyumlu evrende birleştiren makro ekosistem. Ürünlerin birbirleriyle kusursuz konuştuğu bir altyapı.
-
-<br>
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.svg" width="100%" alt="divider" />
+### 🌐 Connect & Collaborate
+
+Whether you want to follow the development of Alvera, discuss next-gen web technologies, or unite forces on a visionary project, feel free to reach out.
 
 <br>
 
-### ⚙️ Teknoloji ve Mimari Yığınım
-
-Genişletilmiş bir ekosistem inşa etmek, güçlü ve modern araçlar gerektirir. Siyah, beyaz ve gümüş tonlarındaki rozetlerle pürüzsüz bir görünüm sağladım:
-
-<br>
-
-**1. Çekirdek & Yapay Zeka (Core & AI)**<br><br>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+[![Portfolio](https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seninwebsiten.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seninprofilin)
+[![Email](https://img.shields.io/badge/Get_In_Touch-000000?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:seninemailin@mail.com)
 
 <br><br>
 
-**2. Web Mimarisi (Frontend & Backend)**<br><br>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br><br>
-
-**3. Ürün, Tasarım & DevOps (Product & Design)**<br><br>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Creative_Cloud-000000?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Marketing_Strategy-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.svg" width="100%" alt="divider" />
-
-<br>
-
-### 📈 Mühendislik Metrikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuneay&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuneay&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&sideLabels=ffffff&sideNums=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&bg_color=00000000" alt="GitHub Streak" width="48%" />
-</p>
-
-*(İstatistik kartları GitHub'ın arka planıyla tamamen bütünleşmesi için transparan ve gümüş/beyaz tonlarında render edilmiştir.)*
-
-<br><br>
-
-### 🌐 Ağa Katıl
-
-Alvera'nın gelişimini konuşmak, yeni nesil web teknolojileri üzerine tartışmak veya vizyoner bir projede güçlerimizi birleştirmek için bana aşağıdaki kanallardan ulaşabilirsin.
-
-<p align="center">
-  <a href="https://seninwebsiten.com"><img src="https://img.shields.io/badge/Kişisel_Web_Sitem-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/seninprofilin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seninemailin@mail.com"><img src="https://img.shields.io/badge/İletişime_Geç-000000?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-</p>
-
-<br>
-
-<p align="center" style="font-size: 12px; color: #555555;">
-  <i>"Tasarım sadece nasıl göründüğü veya hissettirdiği değildir. Tasarım, nasıl çalıştığıdır." — Steve Jobs</i>
+<p style="font-size: 13px; color: #555555;">
+  <i>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</i>
 </p>
 
 </div>
