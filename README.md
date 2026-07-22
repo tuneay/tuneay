@@ -39,7 +39,7 @@ the underlying system, the interface should stay calm, intuitive, and remarkably
 <tr>
 <td width="33%" valign="top">
 
-### Alvera
+### Upvera
 `In Development`
 
 A web platform rethinking digital interaction. Stripped of clutter, built entirely around
