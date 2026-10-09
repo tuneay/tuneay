@@ -62,7 +62,7 @@ Full-stack development · AI tooling · Product design
 
 ### Let’s build something meaningful.
 
-[upvera.co](https://upvera.co) · [admin@upvera.co](mailto:admin@upvera.co)
+[upvera.co](https://upvera.co) · [tuneay@upvera.co](mailto:tuneay@upvera.co)
 
 <br />
 <br />
